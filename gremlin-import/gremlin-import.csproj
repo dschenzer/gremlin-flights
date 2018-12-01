@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>gremlin_import</RootNamespace>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="9.2.3" />
+    <PackageReference Include="Microsoft.Azure.CosmosDB.BulkExecutor" Version="2.0.0-preview2" />
+  </ItemGroup>
+
+</Project>

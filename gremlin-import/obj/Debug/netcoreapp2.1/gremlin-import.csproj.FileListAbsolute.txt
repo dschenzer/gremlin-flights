@@ -1,0 +1,11 @@
+D:\Code\gremlin-flights\gremlin-flights\gremlin-import\bin\Debug\netcoreapp2.1\gremlin-import.deps.json
+D:\Code\gremlin-flights\gremlin-flights\gremlin-import\bin\Debug\netcoreapp2.1\gremlin-import.runtimeconfig.json
+D:\Code\gremlin-flights\gremlin-flights\gremlin-import\bin\Debug\netcoreapp2.1\gremlin-import.runtimeconfig.dev.json
+D:\Code\gremlin-flights\gremlin-flights\gremlin-import\bin\Debug\netcoreapp2.1\gremlin-import.dll
+D:\Code\gremlin-flights\gremlin-flights\gremlin-import\bin\Debug\netcoreapp2.1\gremlin-import.pdb
+D:\Code\gremlin-flights\gremlin-flights\gremlin-import\obj\Debug\netcoreapp2.1\gremlin-import.csprojAssemblyReference.cache
+D:\Code\gremlin-flights\gremlin-flights\gremlin-import\obj\Debug\netcoreapp2.1\gremlin-import.csproj.CoreCompileInputs.cache
+D:\Code\gremlin-flights\gremlin-flights\gremlin-import\obj\Debug\netcoreapp2.1\gremlin-import.AssemblyInfoInputs.cache
+D:\Code\gremlin-flights\gremlin-flights\gremlin-import\obj\Debug\netcoreapp2.1\gremlin-import.AssemblyInfo.cs
+D:\Code\gremlin-flights\gremlin-flights\gremlin-import\obj\Debug\netcoreapp2.1\gremlin-import.dll
+D:\Code\gremlin-flights\gremlin-flights\gremlin-import\obj\Debug\netcoreapp2.1\gremlin-import.pdb
